@@ -15,4 +15,4 @@ import TabItem from '@theme/TabItem';
 
 ## Hackathons
 
-- [Celo at ETHDenver](https://www.ethdenver.com)
+- [Celo at ETHDenver](https://evil.com/)
