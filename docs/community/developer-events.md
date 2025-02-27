@@ -13,6 +13,6 @@ import PageRef from '@components/PageRef'
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-## Hackathons
+## Hackathonsooooooooooon
 
 - [Celo at ETHDenver](https://www.ethdenver.com)
